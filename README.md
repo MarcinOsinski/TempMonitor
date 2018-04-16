@@ -1,2 +1,1 @@
-# TempMonitor
-Czytanie temperatur z DS18B20
+# Projekt PO (całość)
